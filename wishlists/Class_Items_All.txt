@@ -1,5 +1,5 @@
-title:Boose's Class Items Shopping List
-description:All relevant Relativism, Stoicism, Solipsism rolls.
+title: Boose's engineeeeer7 Class Wishlist
+description: All relevant Relativism, Stoicism, Solipsism rolls.
 
 //notes:S Tier Hunter Trait Combos
 dimwishlist:item=2809120022&perks=1476923952,1476923956
