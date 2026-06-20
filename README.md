@@ -6,27 +6,11 @@ Collection of wish lists for not only the most effective/popular trait combos, b
 
 ## How to use:
 Copy and paste one of the copy blocks below to import it into DIM.
-#### All 3 classes + trash 
-```
-https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_All.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Trash.txt
-```
 #### All 3 classes
 ```
 https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_All.txt
 ```
-#### Hunter only
+#### All 3 classes + trash 
 ```
-https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Hunter.txt
-```
-#### Titan only
-```
-https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Titan.txt
-```
-#### Warlock only
-```
-https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Warlock.txt
-```
-#### Trash only
-```
-https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Trash.txt
+https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_All.txt|https://raw.githubusercontent.com/Boose77/dim_wishlist_classitem/refs/heads/main/wishlists/Class_Items_Trash.txt
 ```
