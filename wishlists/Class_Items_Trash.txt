@@ -1,5 +1,5 @@
-title:Boose's Class Items Shopping List - Trash
-description:All trash Relativism, Stoicism, and Solipsism rolls.
+title: Boose's engineeeeer7 Class Trashlist
+description: All trash Relativism, Stoicism, and Solipsism rolls.
 
 //notes:Trash Tier Combos
 dimwishlist:item=-2809120022&perks=1476923952,3751917991
